@@ -1,4 +1,4 @@
-The script can scrape the [] website which requires login and has CSRF protection.
+The script can scrape the https://www.scrapingcourse.com/login/csrf website which requires login and has CSRF protection.
 
 The site generates a dynamic token that requires to be sent in addion to the email and
 password in order for the login to succeed.
